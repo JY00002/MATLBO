@@ -1,7 +1,7 @@
 # MATLBO Algorithm for Heterogeneous UAV Swarm Cooperative Task Allocation
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social&label=Star)](https://github.com/your-username/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=social&label=Fork)](https://github.com/your-username/your-repo/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social&label=Star)](https://github.com/JY00002/MATLBO/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=social&label=Fork)](https://github.com/JY00002/MATLBO/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 
