@@ -1,0 +1,13 @@
+{
+    "problem": "hdsstp",
+    "data_dir": "./data/hdsstp20",
+    "seed": 1002,
+    "dataset_size": 20,
+    "min_range": 5.0,
+    "max_range": 10.0,
+    "min_turning_radius": 0.005,
+    "max_turning_radius": 0.015,
+    "size_drones_dict": {
+        "300": [64]
+    }
+}
