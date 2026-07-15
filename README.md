@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 
-> This repository contains the official implementation of the paper: **"Efficient modular adaptive teaching-learning-based optimization for heterogeneous UAV swarm task allocation under temporal constraints"**.
+> This repository contains the official implementation of the paper: **"A Two-Stage Optimization Framework with Plug-and-Play Initialization for Heterogeneous UAV Swarm Task Allocation"**.
 >
 > **Note**: Currently, only the data generation code is provided. The full code will be open-sourced upon paper acceptance.
 
@@ -80,7 +80,7 @@ If you find this code useful in your research, please cite our paper:
 
 ```bibtex
 @article{jy2026matlbo,
-  title={Efficient modular adaptive teaching-learning-based optimization for heterogeneous UAV swarm task allocation under temporal constraints},
+  title={A Two-Stage Optimization Framework with Plug-and-Play Initialization for Heterogeneous UAV Swarm Task Allocation},
   author={xxx},
   journal={XX},
   year={2026},
